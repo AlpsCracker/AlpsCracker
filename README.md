@@ -7,7 +7,7 @@
 
 - 🏢 I'm currently working with awesome peeps at **ZJU ICSR**
 - 🌱 Learning more about and studying: **Generative Model**, **Adversarial Attack**
-- 💜 Interests: large language models security and cyber security 
+- 💜 Interests: **Large Language Models Security** 
 - 😄 Passionate about exploring and researching
 
 ---
